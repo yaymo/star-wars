@@ -1,3 +1,8 @@
+body{
+	font-family: "Roboto";
+	color: #252525;
+}
+
 header{
 	background-color: orange;
 	margin-bottom: 40px;
@@ -14,7 +19,7 @@ header p{
 
 .picture{
 	margin-bottom: 20px;
-	border: 1px solid #DDDDDD;
+	border: 1px solid #E5E5E5;
 }
 
 .character{
@@ -24,7 +29,7 @@ header p{
 .card-text{
 	padding: 20px;
 }
-.card-text h4{
+.card-text h3{
 	margin-top: 0;
 	margin-bottom: 0;
 }
